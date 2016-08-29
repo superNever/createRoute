@@ -2,7 +2,7 @@
 
 # 简单阐述一下url 和 querystring模块
 ```bash
-             url.parse(string).query
+                                url.parse(string).query
                                            |
            url.parse(string).pathname      |
                        |                   |
