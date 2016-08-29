@@ -1,7 +1,7 @@
 // entry
-var server = require('./server.js');
-var route = require('./route.js');
-var requestHandlers = require('./requestHandlers.js');
+var server = require('./server/server.js');
+var route = require('./route/route.js');
+var requestHandlers = require('./handlers/requestHandlers.js');
 
 var handle = {};
 handle['/'] = requestHandlers.start;
