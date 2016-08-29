@@ -1,5 +1,14 @@
 # try to create route
 
+
+#文件结构
+
+- index.js 入口文件
+- server.js 服务文件
+- route.js 路由文件
+- requestHandlers.js 路由处理文件呢
+
+
 # 简单阐述一下url 和 querystring模块
 ```bash
                                 url.parse(string).query
