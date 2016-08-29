@@ -18,6 +18,8 @@
 
 # 简单阐述一下url 和 querystring模块
 ```bash
+var string = request.url;
+
                                 url.parse(string).query
                                            |
            url.parse(string).pathname      |
