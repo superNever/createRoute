@@ -1,5 +1,12 @@
 # try to create route
 
+#启动文件
+```bash
+   git clone https://github.com/superNever/createRoute.git
+   cd createRoute&&npm install
+   npm run start
+```
+
 
 #文件结构
 
