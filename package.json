@@ -4,7 +4,7 @@
   "description": "try to create route",
   "main": "index.js",
   "scripts": {
-    "start":"node index",
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/superNever/createRoute/issues"
   },
-  "homepage": "https://github.com/superNever/createRoute#readme"
+  "homepage": "https://github.com/superNever/createRoute#readme",
+  "devDependencies": {
+    "formidable": "^1.0.17"
+  }
 }
